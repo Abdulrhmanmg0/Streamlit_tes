@@ -1,1 +1,3 @@
-![alt text](\Screenshot (675).png)
+# Streamlit
+
+![alt text](/Screenshot (675).png)
